@@ -1,1 +1,8 @@
-/content/aem-eds
+{
+  "mappings": [
+    "/content/aem-eds/:/"
+  ],
+  "includes": [
+    "/content/aem-eds/"
+  ]
+}
